@@ -65,11 +65,11 @@ Busco oportunidades em <strong>desenvolvimento web Full Stack</strong>.
 <div align="center">
   <img
     height="180"
-    src="https://github-readme-stats-fast.vercel.app/api?username=Rafaasj07&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=rafaelaugustodev&show_icons=true&theme=tokyonight&hide_border=true"
   />
   <img
     height="180"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rafaasj07&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafaelaugustodev&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
   />
 </div>
 
