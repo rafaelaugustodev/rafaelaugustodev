@@ -13,13 +13,7 @@ Formado no <strong>Técnico em Informática para Internet pelo IF Goiano</strong
 <p align="center">
 Participei da <strong>Residência em TIC (Brisa/UFG)</strong>, atuando em projetos reais com
 <strong>IA Generativa</strong>.<br/>
-Atualmente, atuo como <strong>Desenvolvedor Frontend</strong> no projeto
-<strong>APlus Platform (UFG)</strong>.
-</p>
-
-<p align="center">
-Busco oportunidades em <strong>desenvolvimento web Full Stack</strong>.
-</p>
+Atualmente, atuo como <strong>Desenvolvedor FullStack</strong>
 
 ---
 
