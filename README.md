@@ -9,7 +9,7 @@ Formado no <strong>Técnico em Informática para Internet pelo IF Goiano</strong
 <p align="center">
 Participei da <strong>Residência em TIC (Brisa/UFG)</strong>, atuando em projetos reais com
 <strong>IA Generativa</strong>.<br/>
-Atualmente, atuo como <strong>Desenvolvedor Full Stack</strong>
+Atualmente, atuo como <strong>Desenvolvedor Full Stack.</strong>
 
 ---
 
