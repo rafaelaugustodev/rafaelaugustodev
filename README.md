@@ -1,10 +1,6 @@
 # 👨🏻‍💻 Rafael Augusto
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack</strong>
-</p>
-
-<p align="center">
 Desenvolvedor Full Stack e estudante de <strong>Sistemas de Informação na UFG</strong>.<br/>
 Formado no <strong>Técnico em Informática para Internet pelo IF Goiano</strong>, com experiência em
 <strong>desenvolvimento web</strong>, <strong>Frontend com React</strong> e <strong>Inteligência Artificial</strong>.
@@ -13,7 +9,7 @@ Formado no <strong>Técnico em Informática para Internet pelo IF Goiano</strong
 <p align="center">
 Participei da <strong>Residência em TIC (Brisa/UFG)</strong>, atuando em projetos reais com
 <strong>IA Generativa</strong>.<br/>
-Atualmente, atuo como <strong>Desenvolvedor FullStack</strong>
+Atualmente, atuo como <strong>Desenvolvedor Full Stack</strong>
 
 ---
 
