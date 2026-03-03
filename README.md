@@ -50,20 +50,6 @@ Atualmente, atuo como <strong>Desenvolvedor Full Stack.</strong>
 
 ---
 
-## 📊 Estatísticas
-<div align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats-fast.vercel.app/api?username=rafaelaugustodev&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafaelaugustodev&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
-  />
-</div>
-
----
-
 ## 📬 Contato
 <div align="center">
   <a href="https://linkedin.com/in/rafaelasjdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
