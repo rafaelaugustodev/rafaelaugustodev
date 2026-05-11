@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  Atualmente trabalhando como Desenvolvedor Full Stack na Magistrar Educacional.
+</p>
+
+<p align="center">
   Desenvolvimento de software, APIs, aplicações web, cloud e soluções com Inteligência Artificial.
 </p>
 
