@@ -1,16 +1,16 @@
 <h1 align="center">👨🏻‍💻 Rafael Augusto</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack • Sistemas de Informação - UFG
+  <strong>Desenvolvedor Full Stack</strong> • Sistemas de Informação - UFG
 </p>
 
 <p align="center">
-  Software Development • APIs • Cloud • Artificial Intelligence
+  Desenvolvimento de software, APIs, aplicações web, cloud e soluções com Inteligência Artificial.
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,c,react,next,nodejs,nestjs,graphql,postgres,mongodb,docker,aws,git&theme=dark" />
@@ -18,33 +18,43 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelasjdev&theme=tokyonight" 
-  />
-  <img 
-    height="180em" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelasjdev&theme=tokyonight" 
-  />
-</p>
+<div align="center">
 
-<p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelasjdev&theme=tokyonight" 
+    height="165em"
+    src="https://github-readme-stats.vercel.app/api?username=rafaelaugustodev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"
   />
-</p>
+
+  <img 
+    height="165em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaugustodev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
+  />
+
+</div>
+
+---
+
+## 📈 Resumo de Atividade
+
+<div align="center">
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelaugustodev&theme=tokyonight"
+  />
+
+</div>
 
 ---
 
 ## 📬 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/rafaelasjdev">
+  <a href="https://linkedin.com/in/rafaelasjdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:rafael.s.januario@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
