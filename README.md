@@ -8,55 +8,28 @@
   Desenvolvimento de software, APIs, aplicações web, cloud e soluções com Inteligência Artificial.
 </p>
 
----
+<br/>
 
-## 🚀 Tecnologias
+<h2 align="center">🚀 Tecnologias</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,c,react,next,nodejs,nestjs,graphql,postgres,mongodb,docker,aws,git&theme=dark" />
 </p>
 
----
+<br/>
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">📊 Linguagens mais usadas</h2>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelaugustodev&theme=tokyonight"
-    height="180em"
-  />
-
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelaugustodev&theme=tokyonight"
-    height="180em"
+    width="420"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelaugustodev&theme=tokyonight"
-    height="180em"
-  />
+<br/>
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafaelaugustodev&theme=tokyonight&utcOffset=-3"
-    height="180em"
-  />
-</p>
-
----
-
-## 📈 Resumo de Atividade
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelaugustodev&theme=tokyonight"
-  />
-</p>
-
----
-
-## 📬 Contato
+<h2 align="center">📬 Contato</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/rafaelasjdev" target="_blank">
